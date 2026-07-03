@@ -10,7 +10,7 @@ html {
 
 body {
     font-family: "Poppins";
-    background-color: hsl(271, 86%, 66%);
+    background-color: hsl(184, 64%, 56%);
     color: #cbd5e1;
     line-height: 1.7;
 }
@@ -44,7 +44,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 1rem 2rem;
-    background: hwb(197 4% 9%);
+    background: hwb(199 29% 22%);
     border-bottom: 2px solid white;
     backdrop-filter: blur(10px);
 }
@@ -80,7 +80,7 @@ main {
 
 #Home {
     text-align: center;
-    background: linear-gradient(to bottom, hsl(268, 67%, 65%), rgb(148, 101, 185));
+    background: linear-gradient(to bottom, hsl(217, 80%, 80%), rgb(81, 122, 224));
     padding: 120px 20px;
     border-radius: 15px;
 }
@@ -175,7 +175,7 @@ main {
     position: relative;
     overflow: hidden;
     border-radius: 20px;
-    background: hsl(281, 73%, 68%);
+    background: hsl(217, 82%, 55%);
     transition: 0.4s;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
 }
@@ -257,7 +257,7 @@ main {
 
 #BukuTamu {
     padding: 80px 20px;
-    background: hsl(217, 90%, 73%);
+    background: hsl(177, 46%, 43%);
 }
 
 #BukuTamu h2 {
@@ -321,15 +321,15 @@ button {
 }
 
 button:hover {
-    background: hsl(197, 96%, 41%);
+    background: hsl(194, 68%, 59%);
     transform: translateY(-2px);
 }
 
 footer {
     text-align: center;
     padding: 40px 20px;
-    background: hsl(204, 93%, 45%);
-    border-top: 2px solid hsl(202, 96%, 47%);
+    background: hsl(187, 50%, 48%);
+    border-top: 2px solid hsl(189, 56%, 49%);
 }
 
 footer p {
