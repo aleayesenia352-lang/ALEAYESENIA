@@ -80,7 +80,7 @@ main {
 
 #Home {
     text-align: center;
-    background: linear-gradient(to bottom, hsl(217, 80%, 80%), rgb(81, 122, 224));
+    background: linear-gradient(to bottom, hsl(217, 80%, 80%), rgb(18, 25, 26));
     padding: 120px 20px;
     border-radius: 15px;
 }
@@ -229,7 +229,7 @@ main {
 }
 
 #Video figure {
-    background: There hsl(217, 81%, 59%);
+    background: There hsl(218, 8%, 19%);
     padding: 15px;
     border-radius: 15px;
     transition: 0.3s;
